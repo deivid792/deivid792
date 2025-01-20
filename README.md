@@ -18,6 +18,9 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin" /><img align="center" alt="html5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img align="center" alt="html5" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Jest-red?logo=jest&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
 </div><br>
 Apaixonado por tecnologia, sempre em busca de novos conhecimentos!
 
