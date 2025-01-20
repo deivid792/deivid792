@@ -22,6 +22,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Jest-red?logo=jest&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Fastify-black?logo=fastify&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
 </div><br>
 
 
