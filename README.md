@@ -21,6 +21,7 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Jest-red?logo=jest&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/Fastify-black?logo=fastify&logoColor=white" />
 </div><br>
 Apaixonado por tecnologia, sempre em busca de novos conhecimentos!
 
