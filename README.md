@@ -4,9 +4,9 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deivi_goncalves/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/804537301216395335)
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=deivid792&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/deivid792/deivid792)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deivid792&layout=compact)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=deivid792&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/deivid792/deivid792)
 
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br>
